@@ -125,4 +125,3 @@ notes-rag/
 
 ---
 
-*Built by a 2nd year EEE student @ UCL exploring ML, embedded systems & software engineering.*
